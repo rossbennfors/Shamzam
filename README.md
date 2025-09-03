@@ -2,7 +2,7 @@
 
 _A microservice-based music recognition MVP (Shazam clone)_
 
-This project implements **Shamzam**, a Shazam-like music recognition service, as specified in the ECM3408 — Enterprise Computing coursework. Shamzam uses **microservices**, an **SQLite database**, and the **[AudD.io API](https://audd.io/)** for music fragment recognition.
+This project implements **Shamzam**, a Shazam-like music recognition service. Shamzam uses **microservices**, an **SQLite database**, and the **[AudD.io API](https://audd.io/)** for music fragment recognition.
 
 ---
 
